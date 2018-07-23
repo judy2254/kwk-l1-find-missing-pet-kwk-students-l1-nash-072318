@@ -10,7 +10,7 @@ Because you're a legit programmer, you know the most efficient way is to navigat
 
 As a refresher, here's a list of commands to help you with this task:
 
-`pwd` print working directory - shows you where you are
+`pwd` print working direlsctory - shows you where you are
 
 `cd ..` change your current directory to the parent (one above it)
 
